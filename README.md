@@ -2,7 +2,7 @@
 
 tis the season,
 
-Advent of Code 2021
+Advent of Code 2021 with [cairo-lang](https://www.cairo-lang.org/)
 
 ## Getting started
 
